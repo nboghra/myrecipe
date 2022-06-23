@@ -1,1 +1,2 @@
 let's bake a cake
+First, preheat the oven to 275 F.
